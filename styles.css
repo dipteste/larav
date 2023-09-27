@@ -1,0 +1,12 @@
+/* Estilos CSS */
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(rgba(0, 0, 0, 0.96), rgba(0, 0, 0, 0.96)),
+        url('https://i.ibb.co/1KvJpb4/iphone-13-hd-wallpaper-1920x1080-uhdpaper-com-951-1-b.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #e1e1e1;
+    margin: 0;
+    padding: 0;
+}
+
+/* ... Outros estilos CSS ... */
